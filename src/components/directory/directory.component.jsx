@@ -35,8 +35,9 @@ class Directory extends React.Component {
                     size: 'large',
                     id: 5
                   }]
-        }
+        };
     }
+    
     render() {
       return (
         <div className='directory-menu'>
